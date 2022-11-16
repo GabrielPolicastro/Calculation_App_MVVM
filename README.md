@@ -1,2 +1,3 @@
-# Exercicio_Treino_MVVM
-Exercício treino em MVVM 
+# MVVM Training Exercise
+
+App training that performs basic calculations, in MVVM
